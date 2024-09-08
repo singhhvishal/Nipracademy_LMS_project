@@ -1,0 +1,16 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.env
+*.sqlite3
+
+# Django-specific
+/media/
+staticfiles/
+
+# IDE
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
